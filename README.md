@@ -55,9 +55,7 @@ npm install
 # Configure environment variables
 # Create a .env file with:
 DATABASE_URL=mysql://library_admin:LibAdmin2024!@localhost:3306/library_management
-SESSION_SECRET=your-secret-key
-REPL_ID=local-demo
-REPLIT_DOMAINS=localhost:5000
+SESSION_SECRET=library-course-demo-secret
 
 # Start the application
 npm run dev
