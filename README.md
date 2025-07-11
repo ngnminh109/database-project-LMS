@@ -198,7 +198,7 @@ For full functionality demonstration, the application needs to be run locally wi
 
 ## My Contribution (Nguyen Nhat Minh)
 
-This project was completed collaboratively as part of a course at VinUniversity.  
+This project was completed collaboratively as part of Database and Database Systems course at VinUniversity.  
 My key contributions included:
 - Backend logic for loan processing (MySQL triggers, stored procedures)
 - Role-based access system
