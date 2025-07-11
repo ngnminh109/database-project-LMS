@@ -193,3 +193,13 @@ For full functionality demonstration, the application needs to be run locally wi
 1. MySQL database running
 2. Node.js backend server running  
 3. Environment variables configured
+
+---
+
+## My Contribution (Nguyen Nhat Minh)
+
+This project was completed collaboratively as part of a course at VinUniversity.  
+My key contributions included:
+- Backend logic for loan processing (MySQL triggers, stored procedures)
+- Role-based access system
+- Web integration and user management functions
